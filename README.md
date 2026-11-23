@@ -31,8 +31,8 @@
 </p>
 
 <p align="center">
-  <sub>其他的嘛……主要由 AI 负责，我负责提出需求和测试。:)</sub><br />
-  <sub>For most of the rest, AI does the heavy lifting. I just bring the ideas and test the results. :)</sub>
+  <sub>其他的嘛……主要由 AI 负责，我来当产品经理:)</sub><br />
+  <sub>For most of the rest, AI does the heavy lifting. I just here to serve as a product manager. :)</sub>
 </p>
 
 ## 找到我 · Find Me
