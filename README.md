@@ -21,23 +21,19 @@
   </p>
 </div>
 
-## 关于我 · About Me
+## Toolbox
 
-我是一名自动化专业的学生，主要折腾单片机和嵌入式开发，也会尝试一些 Web 项目。我喜欢把硬件、软件和实际想法连接起来，让东西真正跑起来。
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=c,python,html&perline=3"
+    alt="C, Python, HTML"
+  />
+</p>
 
-I'm an automation engineering student mainly focused on microcontrollers and embedded development. I also experiment with web projects and enjoy bringing hardware, software, and ideas together.
-
-## 我常接触的技术 · What I Work With
-
-| 方向 / Area | 内容 / Focus |
-|:--|:--|
-| **单片机 / Microcontrollers** | 51 单片机 · STM32 |
-| **嵌入式探索 / Exploring** | ESP32 |
-| **Web 项目 / Web Projects** | PHP · JavaScript · HTML / CSS（基础） |
-
-我经常借助 AI 辅助开发、查阅资料和解决问题。对我来说，AI 是提高效率的工具，也是一种边做边学的方式。
-
-I often use AI as a development assistant for building, researching, and troubleshooting. It's a way for me to work more efficiently while learning along the way.
+<p align="center">
+  <sub>其他的嘛……主要由 AI 负责，我负责提出需求和测试。:)</sub><br />
+  <sub>For most of the rest, AI does the heavy lifting. I just bring the ideas and test the results. :)</sub>
+</p>
 
 ## 找到我 · Find Me
 
@@ -65,12 +61,6 @@ I often use AI as a development assistant for building, researching, and trouble
 </p>
 
 <sub>贪吃蛇会根据 GitHub 当前界面的浅色 / 深色主题自动切换。 · The snake switches automatically with GitHub's light or dark theme.</sub>
-
-<details>
-  <summary>一点小小的说明 · A little note</summary>
-  <p>感谢来访！我会继续学习、尝试，并把下一个作品做得更好。</p>
-  <p>Thanks for stopping by. I'm always learning, experimenting, and making the next thing a little better.</p>
-</details>
 
 <div align="center">
   <sub>保持好奇，持续创造。 · Stay curious, keep building.</sub><br />
