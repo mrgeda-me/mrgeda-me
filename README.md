@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/mrgeda-me/mrgeda-me/master/assets/profile-header.svg"
+    src="https://raw.githubusercontent.com/mrgeda-me/mrgeda-me/master/assets/profile-header.webp"
     width="100%"
     alt="MrGeda — Hardware · Software · Ideas"
   />
