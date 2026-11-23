@@ -1,11 +1,7 @@
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/mrgeda-me/mrgeda-me/master/assets/profile-header.svg"
-    width="100%"
-    alt="MrGeda — Hardware · Software · Ideas"
-  />
+  <h1>MrGeda</h1>
 
-  <p>
+<p>
     <strong>你好，我是 MrGeda。</strong><br />
     <sub>Hi, I'm MrGeda.</sub>
   </p>
