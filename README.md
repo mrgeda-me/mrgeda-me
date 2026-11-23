@@ -23,26 +23,21 @@
 
 ## 关于我 · About Me
 
-我是一名自动化专业的学生，喜欢探索硬件与软件的交汇点。从嵌入式系统、电路设计到软件开发，我享受把想法一点点变成现实的过程。
+我是一名自动化专业的学生，主要折腾单片机和嵌入式开发，也会尝试一些 Web 项目。我喜欢把硬件、软件和实际想法连接起来，让东西真正跑起来。
 
-I'm an automation engineering student interested in the intersection of hardware and software. From embedded systems and circuit design to software development, I enjoy turning ideas into things that work.
+I'm an automation engineering student mainly focused on microcontrollers and embedded development. I also experiment with web projects and enjoy bringing hardware, software, and ideas together.
 
-## 正在探索 · Currently Exploring
+## 我常接触的技术 · What I Work With
 
-| 方向 / Area | 关键词 / Topics |
+| 方向 / Area | 内容 / Focus |
 |:--|:--|
-| **嵌入式系统 / Embedded Systems** | STM32 · C/C++ · Circuit Design |
-| **自动化 / Automation** | Control · Electronics · Prototyping |
-| **软件开发 / Software** | Web · Android · Developer Tools |
+| **单片机 / Microcontrollers** | 51 单片机 · STM32 |
+| **嵌入式探索 / Exploring** | ESP32 |
+| **Web 项目 / Web Projects** | PHP · JavaScript · HTML / CSS（基础） |
 
-## 技术工具箱 · Toolbox
+我经常借助 AI 辅助开发、查阅资料和解决问题。对我来说，AI 是提高效率的工具，也是一种边做边学的方式。
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=c,cpp,python,js,kotlin,html,css,git,github,androidstudio&perline=5"
-    alt="技术栈图标 / Technology stack"
-  />
-</p>
+I often use AI as a development assistant for building, researching, and troubleshooting. It's a way for me to work more efficiently while learning along the way.
 
 ## 找到我 · Find Me
 
