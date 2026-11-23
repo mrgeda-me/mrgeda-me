@@ -60,8 +60,6 @@
   </picture>
 </p>
 
-<sub>贪吃蛇会根据 GitHub 当前界面的浅色 / 深色主题自动切换。 · The snake switches automatically with GitHub's light or dark theme.</sub>
-
 <div align="center">
   <sub>保持好奇，持续创造。 · Stay curious, keep building.</sub><br />
   <sub><a href="https://www.mrgeda.top/">mrgeda.top</a></sub>
