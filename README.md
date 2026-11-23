@@ -1,8 +1,8 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,100:2563EB&text=MrGeda&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=HARDWARE%20%C3%97%20SOFTWARE%20%C3%97%20IDEAS&descAlignY=64&descSize=14&animation=fadeIn"
+    src="https://raw.githubusercontent.com/mrgeda-me/mrgeda-me/master/assets/profile-header.svg"
     width="100%"
-    alt="MrGeda — 硬件 × 软件 × 想法"
+    alt="MrGeda — Hardware · Software · Ideas"
   />
 
   <p>
