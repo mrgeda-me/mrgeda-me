@@ -1,4 +1,4 @@
-name: generate animation
+name: Generate contribution snake
 
 on:
   schedule:
@@ -18,6 +18,7 @@ permissions:
 
 jobs:
   generate:
+    name: Build and publish contribution snake
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
