@@ -10,10 +10,10 @@
     <a href="https://www.mrgeda.top/">
       <img src="https://img.shields.io/badge/Website-mrgeda.top-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="个人网站" />
     </a>
-    <a href="https://github.com/mrgeda-me">
+    <a href="https://github.com/mrgeda">
       <img src="https://img.shields.io/badge/GitHub-mrgeda--me-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=mrgeda-me&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="主页访问量" />
+    <img src="https://komarev.com/ghpvc/?username=mrgeda&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="主页访问量" />
   </p>
 </div>
 
@@ -34,7 +34,7 @@
 ## 找到我 · Find Me
 
 - 个人网站 / Website: [mrgeda.top](https://www.mrgeda.top/)
-- GitHub: [@mrgeda-me](https://github.com/mrgeda-me)
+- GitHub: [@mrgeda](https://github.com/mrgeda)
 
 ## 贡献贪吃蛇 · Contribution Snake
 
@@ -42,15 +42,15 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/mrgeda-me/mrgeda-me/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/mrgeda/mrgeda/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/mrgeda-me/mrgeda-me/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/mrgeda/mrgeda/output/github-snake.svg"
     />
     <img
       alt="GitHub 贡献贪吃蛇 / GitHub contribution snake"
-      src="https://raw.githubusercontent.com/mrgeda-me/mrgeda-me/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/mrgeda/mrgeda/output/github-snake.svg"
       width="100%"
     />
   </picture>
